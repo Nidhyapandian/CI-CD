@@ -1,1 +1,1 @@
-# wisdom_repo
+Initiated empty repository
